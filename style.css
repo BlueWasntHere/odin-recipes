@@ -1,0 +1,15 @@
+.paragraph,
+.list {
+    color: black;
+    font-size: 22px;
+}
+
+.paragraph,
+.description,
+.image,
+.title {
+    text-align: center;
+    font-family: "Times New Roman", sans-serif;
+}
+
+
