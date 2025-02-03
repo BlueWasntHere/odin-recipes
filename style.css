@@ -1,10 +1,11 @@
-.paragraph,
-.list {
+p,
+ul,
+ol {
     color: black;
     font-size: 22px;
 }
 
-.paragraph,
+p,
 .description,
 .image,
 .title {
